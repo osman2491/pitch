@@ -4,14 +4,14 @@ app = Flask(__name__)
 posts = [
     {
         'author': 'Corey Schafer',
-        'title': 'Blog Post 1',
-        'content': 'First post content',
+        'title': 'pitch 1',
+        'content': 'First pitch content',
         'date_posted': 'April 20, 2018'
     },
     {
         'author': 'Jane Doe',
-        'title': 'Blog Post 2',
-        'content': 'Second post content',
+        'title': 'pitch  2',
+        'content': 'Second pitch content',
         'date_posted': 'April 21, 2018'
     }
 ]
