@@ -1,7 +1,13 @@
 body {
-    background: #fafafa;
+    background-image: url(profile_pics/photo3.jpeg);
     color: #333333;
     margin-top: 7rem;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -9,7 +15,7 @@ body {
   }
   
   .bg-steel {
-    background-color: blue;
+    background-color:black;
   }
   
   .site-header .navbar-nav .nav-link {
