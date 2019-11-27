@@ -30,7 +30,7 @@ $ pip install flask-script
 Want to contribute? Great!
 
 Fork the repo
-Clone the repo in your machine but ensure you have all the necessary modules.(You can find them in the set up instructions above) https://github.com/AliKheirAbdi/pitchit.git
+Clone the repo in your machine but ensure you have all the necessary modules.
 Create a new branch git branch contributions
 Edit your changes in your branch
 Run the application
