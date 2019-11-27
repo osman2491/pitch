@@ -43,10 +43,11 @@ Boostrap 4
 
 # BDD
 Input	Output	Behavior
-Click Register	Fill out the reg form	user is created
-Click Login	Enter username and password	Application logs user in
-Submit Pitch	User fills out the form and submits	The new pitch is posted
-Delete Pitch	Modal popup with the delete button	The new pitch is posted
-Click Account	User bio is populated	User can edit their username and email and profile picture.
+Click Register>>>	Fill out the reg form>>	user is created.
+Click Login>>>	Enter username, email and password>>>	Application logs user in.
+Submit Pitch>>>	User fills out the form and submits>>> The new pitch is posted.
+Delete Pitch>>	Modal popup with the delete button>>>	The new pitch is posted.
+Click Account>>>	User bio is populated>>>	User can edit their username and email and profile picture.
 
 # License
+MIT license.
